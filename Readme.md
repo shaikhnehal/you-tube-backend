@@ -59,4 +59,7 @@ JWT_SECRET=your_secret_key
 # 5️⃣ Start the server
 npm run dev
 
+Server will start on http://localhost:8000
+
+
 
